@@ -12,3 +12,11 @@ NUVEI_API_URL=
 
 Run the following command to test a refund with Nuvei
 $ python script.py
+
+Output:
+=====================================
+Calculating checksum..
+=====================================
+Checksum: cabb84cf2cf85b5cb4db5c8abae79d901e74255a0b5162af2a0785bbb6519679
+=====================================
+{'status': 'ERROR', 'errCode': 1019, 'reason': 'We are experiencing technical difficulties. Please, try again later!', 'version': '1.0'}
